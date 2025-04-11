@@ -34,3 +34,4 @@ This project demonstrates how classic logic gates — **AND**, **OR**, **NAND**,
 
 ## 🧪 Sample Output
 
+![Output Screenshot](output_screenshot.png)
